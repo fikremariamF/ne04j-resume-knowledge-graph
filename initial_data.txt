@@ -1,0 +1,105 @@
+{
+  "Education": [
+    {
+      "School": "Addis Ababa Institute of Technology",
+      "Degree": "Bachelor of Science in Software Engineering",
+      "StartDate": "2020",
+      "EndDate": "2024"
+    },
+    {
+      "Institution": "Africa to Silicon Valley (A2SV)",
+      "Course": "Data Structures and Algorithms",
+      "StartDate": "2022-10",
+      "EndDate": "2023-10"
+    },
+    {
+      "Institution": "OmniTech Consultancy",
+      "Course": "Full Stack Web Development",
+      "Duration": "6 months"
+    },
+    {
+      "Institution": "SATCOM Institute of Technology",
+      "Course": "Hardware and Software Maintenance",
+      "Duration": "6 months"
+    }
+  ],
+  "Skills": [
+    { "Name": "Laravel" },
+    { "Name": "MySQL" },
+    { "Name": "Flutter" },
+    { "Name": "React" },
+    { "Name": "Angular" },
+    { "Name": ".Net Core" },
+    { "Name": "Tailwind" },
+    { "Name": "MongoDB" },
+    { "Name": "Go" }
+  ],
+  "Experience": [
+    {
+      "Company": "Freelance",
+      "Role": "Laravel Developer",
+      "StartDate": "2024-02",
+      "EndDate": "2024-02",
+      "Location": "Abuja, Nigeria",
+      "Project": "Chiventes Website"
+    },
+    {
+      "Company": "Super Consultancy",
+      "Role": "Full Stack Developer",
+      "StartDate": "2023-01",
+      "EndDate": "Present",
+      "Location": "Addis Ababa, Ethiopia",
+      "Projects": [
+        {
+          "Name": "IMIS with LMS",
+          "Technologies": ["Angular", ".Net Core"]
+        },
+        {
+          "Name": "Research Management System",
+          "Technologies": ["Angular", ".Net Core"]
+        },
+        {
+          "Name": "Digital File Management System",
+          "Technologies": ["Angular", ".Net Core"]
+        }
+      ]
+    },
+    {
+      "Company": "Freelance",
+      "Role": "Backend Developer",
+      "Location": "Addis Ababa, Ethiopia",
+      "Project": "Zebra Foam Finance Management System",
+      "Technologies": ["React", "Laravel"]
+    },
+    {
+      "Company": "Ethernet",
+      "Role": "Backend Developer Intern",
+      "Location": "Addis Ababa, Ethiopia",
+      "Project": "Journal Accreditation",
+      "Technologies": ["Angular", "Laravel"]
+    }
+  ],
+  "Projects": [
+    {
+      "Name": "Blockchain Based Voting System",
+      "Description": "A secure voting platform supporting private elections for organizations."
+    }
+  ],
+  "Achievements": [
+    "Successfully led a team of 10 members to complete a project",
+    "Solved over 400 problems on LeetCode",
+    "Completed A2SV first year education"
+  ],
+  "Associations": [
+    {
+      "Name": "A2SV (Africa to Silicon Valley)"
+    }
+  ],
+  "Contact": {
+    "Email": "fikremariamfikadud54@gmail.com",
+    "Phone": "+251935408625",
+    "Location": "Addis Ababa",
+    "GitHub": "https://github.com/fikremariamF",
+    "LinkedIn": "https://www.linkedin.com/in/fikremariam-fikadu-521b70195/"
+  }
+}
